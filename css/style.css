@@ -255,9 +255,9 @@ main{
 .course-duration {
     color: #FF4A60;
     background-color: #fdd6db8f;
-    border-radius: 18px;
+    border-radius: 17px;
     padding: 4px 17px;
-    margin-left: 51px;
+    margin-left: 28px;
     display: flex;
 }
 .clock-color {
